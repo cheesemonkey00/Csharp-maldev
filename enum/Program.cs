@@ -9,8 +9,7 @@ namespace redTeamDev;
         static void Main(string[] args)
         {
             GeneralInfo infoObj = new GeneralInfo();
-            Persistence persObj = new Persistence(infoObj);
-            persObj.AddToStartup();
+            Console.WriteLine(infoObject.ipv4);
         }
     }
 
