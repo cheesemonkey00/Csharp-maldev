@@ -1,3 +1,3 @@
 # Csharp-maldev
 
-Going through a udemy course and wanted to save some techniques / stuff
+Running through some maldev courses with C#.  Keeping track of some basic scripts for notes.
