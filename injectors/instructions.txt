@@ -1,0 +1,3 @@
+syntax for all files
+
+.\mal.exe <PID to inject into>
