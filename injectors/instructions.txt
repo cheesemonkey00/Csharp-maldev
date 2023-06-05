@@ -1,3 +1,4 @@
 syntax for all files
+(From THM Abusing Windows Internals)
 
 .\mal.exe <PID to inject into>
